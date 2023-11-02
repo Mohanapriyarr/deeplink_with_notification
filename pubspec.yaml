@@ -1,0 +1,50 @@
+name: machine_task
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  loading_animation_widget: ^1.2.0+4
+
+  # firebase
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+  firebase_messaging: ^14.1.0
+  firebase_crashlytics: ^3.0.17
+
+  # for logging and color print
+  logging: ^1.1.1
+  palestine_console: ^0.0.10
+
+  # for toast
+  fluttertoast: ^8.2.2
+  # for api
+  http: ^0.13.5
+
+  # locally save
+  shared_preferences: ^2.1.2
+
+  firebase_dynamic_links: ^5.0.7
+
+  # for social login
+  google_sign_in: ^5.4.2
+  firebase_notifications_handler: ^1.1.0
+
+  get: 4.6.5
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/google.png
+    - assets/comming_soon.jpg

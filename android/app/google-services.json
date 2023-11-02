@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "340678975250",
+    "project_id": "whizlabapp",
+    "storage_bucket": "whizlabapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340678975250:android:cfa63d233ca7a69334ddcb",
+        "android_client_info": {
+          "package_name": "com.mac.machine_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340678975250-8lra48f3f2p51ok5ljb03o2oduhj0vn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.machine_task",
+            "certificate_hash": "32a8b29c139924335590df5e8d44751aee862bc2"
+          }
+        },
+        {
+          "client_id": "340678975250-b4v30qgq563lqrmtjr0u8qb0tmafji8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mac.machine_task",
+            "certificate_hash": "b8088e0c835d4d230c9799e6dc28c402313ff55a"
+          }
+        },
+        {
+          "client_id": "340678975250-t2sg9fkagg265fflu2jri6a8gu1ji5cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffodCZzGlFPV-0_tGzjyxHUdKv7DheOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340678975250-t2sg9fkagg265fflu2jri6a8gu1ji5cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340678975250-j8163ndls7vk3o51mai68s5vm1td5ied.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mac.machineTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

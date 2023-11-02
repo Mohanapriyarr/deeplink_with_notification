@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">340678975250-t2sg9fkagg265fflu2jri6a8gu1ji5cq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">340678975250</string>
+    <string name="google_api_key" translatable="false">AIzaSyBffodCZzGlFPV-0_tGzjyxHUdKv7DheOQ</string>
+    <string name="google_app_id" translatable="false">1:340678975250:android:cfa63d233ca7a69334ddcb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBffodCZzGlFPV-0_tGzjyxHUdKv7DheOQ</string>
+    <string name="google_storage_bucket" translatable="false">whizlabapp.appspot.com</string>
+    <string name="project_id" translatable="false">whizlabapp</string>
+</resources>
